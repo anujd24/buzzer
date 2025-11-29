@@ -8,6 +8,7 @@ import Home from "@/pages/home";
 import Buy from "@/pages/buy";
 import NotFound from "@/pages/not-found";
 
+
 function Router() {
   return (
     <Switch>
